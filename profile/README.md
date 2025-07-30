@@ -1,7 +1,7 @@
 # **EbonyNaranja**
 
 
-![EbonyNaranja Logo](assets/ebonynaranja_logo_mini.png)(https://github.com/ebonynaranja)
+![EbonyNaranja Logo](../assets/ebonynaranja_logo_mini.png)
 
 
 **"Unassuming on the outside, extraordinary on the inside"**
