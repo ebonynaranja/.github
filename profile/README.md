@@ -22,5 +22,5 @@ RISC-V is kind of like the new frontier; think Star Trek, but for hardware and o
 
 ## **Why Choose Us?**
 
-EbonyNaranja isn’t a giant tech empire, it’s just us, building cool stuff because we love it. We like solving problems, making things run smoother, and adding a little style along the way. Whether it’s a better terminal browser or a tool nobody asked for but everyone needs, we keep it simple and useful. No hype, just real work.
+EbonyNaranja isn’t a giant tech empire, it’s just us, building cool stuff because we love it. We like solving problems, making things run smoother, and adding a little style along the way. Whether it’s a bongo tuner or a tool nobody asked for but everyone needs, we keep it simple and useful. No hype, just real work.
 
