@@ -1,26 +1,49 @@
-# **EbonyNaranja**
+# **EbonyNaranja LLC**
 
+![EbonyNaranja Logo](./assets/ebonynaranja_logo_mini.png)
 
-![EbonyNaranja Logo](../assets/ebonynaranja_logo_mini.png)
+*"Unassuming on the outside, extraordinary on the inside"*
 
+## What We Do
+EbonyNaranja is a **research focused skunkworks**, exploring cutting edge technologies in **quantum computing**, **ternary computing**, **RISC-V**, or just fun applications.  Our mission is to push the boundaries of what is possible and innovate beyond the conventional. We like old school reliability with new school ideas. If it's useful, creative, or just plain cool, we’re into it.
 
-**"Unassuming on the outside, extraordinary on the inside"**
+## Skunkworks Areas of Exploration
+Rather than organizing around a single technology, EbonyNaranja operates as a **skunkworks lab**. Current and emerging areas include:
 
-## **About**
-At EbonyNaranja, we believe that true value lies beneath the surface. Inspired by the mythological golden apple, we reverse the narrative: we might look like an unassuming company, but we are packed with innovation, creativity, and transformative power. We create solutions that are as rich and vibrant as the orange at our core, and stable as the ebony in our outside.
+- Quantum computing: concepts, models, tooling, and practical experiments around quantum computation.
+- Ternary & non binary computing: alternatives to binary logic, including ternary systems and multivalued logic.
+- RISC-V & open hardware: open instruction sets, firmware, low level systems, and experimental agents.
+- Future work: many projects start as questions rather than plans. Some areas don’t have names yet; repositories may range from early sketches and simulators to fully working systems.
 
+## Philosophy
+EbonyNaranja isn’t a giant tech empire; it’s just us, building cool stuff because we love it.  
+We focus on experimentation, long horizon research, and building working systems that challenge today’s assumptions; from hardware to protocols to tooling.  
 
-## **What We Do**
+Some ideas will fail.  
+Some will evolve.  
+Some may quietly influence future work.  
 
-We build tech and tools that actually work, no drama, no corporate buzzwords. Whether it’s a terminal browser with some 1980s flavor or a clever backend nobody ever sees, we care about stuff that runs fast and feels good to use. Our projects look simple on the outside, but under the hood, they’re dialed in. We like old-school reliability with new-school ideas. If it’s useful, creative, or just plain cool, we’re into it; like RISC-V.
+That’s the point.
 
+## Our Name
+At EbonyNaranja, we believe that true value lies beneath the surface. Inspired by the mythological golden apple, we reverse the narrative: we might look like an unassuming company, but we are packed with innovation, creativity, and transformative power. We create solutions that are as rich and vibrant as the orange at our core, and stable as the ebony on the outside.
 
-## **Why RISC-V?**
+## ❤️ Support EbonyNaranja
 
-RISC-V is kind of like the new frontier; think Star Trek, but for hardware and open-source fans. There’s a reason so many folks are making the move: it’s open, flexible, and you don’t need a permission slip from a giant company just to build something great. We’re jumping in because we like being part of what’s next, not just following the crowd. If it means better tools for real work (or just more fun for tinkerers and researchers), we’re all in.
+If you find our work interesting or worth sustaining, you can support us:
 
+[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/ebonynaranja)
 
-## **Why Choose Us?**
+[![PayPal](https://img.shields.io/badge/💳%20PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.biz/ebonynaranja)
 
-EbonyNaranja isn’t a giant tech empire, it’s just us, building cool stuff because we love it. We like solving problems, making things run smoother, and adding a little style along the way. Whether it’s a bongo tuner or a tool nobody asked for but everyone needs, we keep it simple and useful. No hype, just real work.
+*Support helps fund research time, infrastructure, hardware, and long-term experiments.*
 
+## Contact & Presence
+
+This organization is maintained openly on Codeberg. Discussion, issues, and collaboration are welcome where appropriate.
+
+[![Questions](https://img.shields.io/badge/✉%20Questions-FF813F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibsen@ebonynaranja.com)
+
+---
+
+*EbonyNaranja LLC — research without a marketing department.*
